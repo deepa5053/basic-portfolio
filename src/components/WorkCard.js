@@ -13,7 +13,7 @@ const WorkCard = () => {
               <img src={pro1} alt="" />
               <h2 className="project-title">Genesis</h2>
               <div className="pro-details">
-                  <p>This is text</p>
+                  <p>My first figma work</p>
                   <div className="pro-btns">
                     <NavLink to="url.com" className="btn">View</NavLink>
                     <NavLink to="url.com" className="btn">Source</NavLink>
